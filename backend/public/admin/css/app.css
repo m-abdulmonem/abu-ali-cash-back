@@ -1,0 +1,134 @@
+
+
+/**
+ * ======>header
+ *
+ * ==> user panel in side bar
+ * ==> btn-delete
+ * ==> alert color
+ * ==> settings/preview-img
+ */
+
+.sidebar .user-panel .info{
+    position: relative;
+    width: 100%;
+}
+.sidebar .user-panel .info .logout{
+    position: absolute;
+    top: 7px;
+    right: 2px;
+    color: #e74c3c;
+}
+.btn-delete{
+    cursor: pointer;
+}
+.success-color{
+    color: #a5dc86;
+}
+.warning-color{
+    color: #ffc107;
+}
+.danger-color{
+    color: #e74c3c;
+}
+.primary-color{
+    color: #007bff;
+}
+.preview-img {
+    width: 250px;
+    height: 250px;
+    margin: 20px 0;
+    display: block;
+}
+
+/**
+ * ======> data tables
+ *
+ * ==> filter
+ * ==> table-img
+ */
+.dataTables_filter{
+    float: right !important;
+}
+.table-img{
+    width: 45px;
+    border-radius: 50%;
+}
+
+/**
+ * ====> Users
+ *
+ * ==> view page
+ */
+.img-rounded{
+    width: 215px;
+    height: 215px;
+}
+.user-info small{
+    margin-left: 10px;
+    color: #797777;
+}
+
+/**
+ * =====> ui components
+ *
+ * ==>checkbox
+ */
+
+.checkbox,.radio{
+    position:relative;
+    cursor:pointer;
+    height:32px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    margin: 0.5em;
+}
+.checkbox input,
+.radio input {
+    display:none;
+}
+.checkbox span:before,
+.checkbox span:after,
+.radio span::before,
+.radio span::after{
+    content:"";
+}
+.checkbox span:before {
+    width:64px;
+    height:32px;
+    margin-right:8px;
+    background:#EEE;
+    border-radius:32px;
+    display:inline-block;
+    vertical-align:middle;
+    transition:all .5s cubic-bezier(.175, .885, .32, 1);
+}
+.checkbox span:after {
+    margin:2px;
+    width:28px;
+    height:28px;
+    background:#FFF;
+    border-radius:28px;
+    position:absolute;
+    left:0;
+    z-index:2;
+    transition:all .5s cubic-bezier(.175, .885, .32, 1);
+}
+.checkbox input:checked + span:after {
+    left:32px;
+    background-image:none;
+}
+.checkbox input:checked + span:before {
+    background-color:#2098AE;
+}
+.checkbox .checkbox-title{
+    position: absolute;
+    left: -95px;
+    font-weight: 700;
+    font-size: 17px;
+    margin-top: 3px;
+}

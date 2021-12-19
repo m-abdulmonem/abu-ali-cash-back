@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="194" height="80" viewBox="0 0 194 80">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="194" height="80" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_4" data-name="Repeat Grid 4" clip-path="url(#clip-path)">
+    <g transform="translate(-1245 -7139)">
+      <g id="Rectangle_336" data-name="Rectangle 336" transform="translate(1245 7139)" fill="none" stroke="#fff" stroke-width="1" opacity="0.5">
+        <rect width="194" height="80" rx="6" stroke="none"/>
+        <rect x="0.5" y="0.5" width="193" height="79" rx="5.5" fill="none"/>
+      </g>
+      <path id="Icon_material-android" data-name="Icon material-android" d="M12.775,43.126a2.427,2.427,0,0,0,2.444,2.4h2.444v8.386a3.666,3.666,0,0,0,7.331,0V45.522h4.887v8.386a3.666,3.666,0,0,0,7.331,0V45.522h2.444a2.427,2.427,0,0,0,2.444-2.4V19.167H12.775ZM6.666,19.167A3.625,3.625,0,0,0,3,22.761V39.533a3.625,3.625,0,0,0,3.666,3.594,3.625,3.625,0,0,0,3.666-3.594V22.761A3.625,3.625,0,0,0,6.666,19.167Zm41.543,0a3.625,3.625,0,0,0-3.666,3.594V39.533a3.666,3.666,0,0,0,7.331,0V22.761A3.625,3.625,0,0,0,48.208,19.167ZM36.063,5.175,39.24,2.06a1.17,1.17,0,0,0,0-1.7,1.227,1.227,0,0,0-1.735,0L33.888,3.905A14.5,14.5,0,0,0,27.437,2.4a14.711,14.711,0,0,0-6.5,1.509L17.3.359a1.227,1.227,0,0,0-1.735,0,1.17,1.17,0,0,0,0,1.7l3.2,3.139a14.249,14.249,0,0,0-5.987,11.572H42.1A14.208,14.208,0,0,0,36.063,5.175Zm-13.514,6.8H20.106v-2.4h2.444Zm12.218,0H32.324v-2.4h2.444Z" transform="translate(1252 7150.5)" fill="#f5f0e3" opacity="0.5"/>
+      <text id="Get_it_on" data-name="Get it on" transform="translate(1322 7174)" fill="#f5f0e3" font-size="17" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="0" y="0">Get it on</tspan></text>
+      <text id="Google_Play" data-name="Google Play" transform="translate(1319 7198)" fill="#f5f0e3" font-size="19" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="0" y="0">Google Play</tspan></text>
+    </g>
+  </g>
+</svg>

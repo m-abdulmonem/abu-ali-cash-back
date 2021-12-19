@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="194" height="80" viewBox="0 0 194 80">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="194" height="80" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_4" data-name="Repeat Grid 4" clip-path="url(#clip-path)">
+    <g transform="translate(-1245 -7239)">
+      <g id="Rectangle_337" data-name="Rectangle 337" transform="translate(1245 7239)" fill="none" stroke="#fff" stroke-width="1" opacity="0.5">
+        <rect width="194" height="80" rx="6" stroke="none"/>
+        <rect x="0.5" y="0.5" width="193" height="79" rx="5.5" fill="none"/>
+      </g>
+      <text id="Get_it_on" data-name="Get it on" transform="translate(1326 7272)" fill="#f5f0e3" font-size="17" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="0" y="0">Get it on</tspan></text>
+      <path id="Icon_awesome-apple" data-name="Icon awesome-apple" d="M38.467,30.67c-.024-4.407,1.99-7.732,6.067-10.182-2.281-3.23-5.727-5.007-10.278-5.355-4.308-.336-9.016,2.485-10.739,2.485-1.82,0-5.994-2.365-9.27-2.365C7.477,15.362.281,20.6.281,31.247A29.645,29.645,0,0,0,2.029,41C3.582,45.4,9.188,56.209,15.036,56.029c3.058-.072,5.218-2.149,9.2-2.149,3.859,0,5.861,2.149,9.27,2.149,5.9-.084,10.969-9.906,12.45-14.324C38.042,38.019,38.467,30.9,38.467,30.67ZM31.6,10.955A11.227,11.227,0,0,0,34.511,2.25a12.913,12.913,0,0,0-8.239,4.19,11.414,11.414,0,0,0-3.106,8.633c3.167.24,6.055-1.369,8.433-4.118Z" transform="translate(1259.557 7248.503)" fill="#f5f0e3" opacity="0.5"/>
+      <text id="App_Store" data-name="App Store" transform="translate(1324 7296)" fill="#f5f0e3" font-size="19" font-family="SegoeUI, Segoe UI" opacity="0.5"><tspan x="0" y="0">App Store</tspan></text>
+    </g>
+  </g>
+</svg>
